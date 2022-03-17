@@ -18,8 +18,11 @@ Sample SuperStore
 
 Summary
 
+![Alt text](https://github.com/lizcarvajal839/Projects/blob/QA/2022-03-16%2019.26.46.gif)
+
 Ecuador shows the number of divorces for each region showing in a map visualization, to create this, the geograhic field is not possible to use. To achieve this, it has been created a new column that allows the region and the country.
 
 The number of records was 14668
+
 
 
